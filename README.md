@@ -20,6 +20,6 @@
   </div><br>  
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia2760MM)](https://github.com/Flavia2760MM/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia2760MM&exclude_repo=github-readme-stats,Flavia2760MM.github.io)](https://github.com/Flavia2760MM/github-readme-stats)
+
   
   Amante de tecnologia!!
